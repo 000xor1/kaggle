@@ -99,14 +99,15 @@ This data set can be downloaded from the [Kaggle](https://www.kaggle.com/c/titan
 
 The highest score was 80.382, ranking in the top 10%.
 
-<img src="./image/score.png" style="width:300px; " />
+![score](./image/score.png){:width="300px"}.
+
 
 
 
 ## References
 
-- [Lecture by Professor Sung Kim for Machine Learning](https://github.com/minsuk-heo/kaggle-titanic/tree/master)
-- [Titanic: Machine Learning from Disaster](https://github.com/minsuk-heo/kaggle-titanic/blob/master/titanic-solution.ipynb)
+- [Lecture by Professor Sung Kim for Machine Learning](https://hunkim.github.io/ml/)
+- [Titanic solution for minsuk heo](https://github.com/minsuk-heo/kaggle-titanic/blob/master/titanic-solution.ipynb)
 - [Titanic top 4 with ensemble modeling](https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling)
 - [Introduction to ensembling stacking in python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
 - [Heaton Research (The Number of Hidden Layers)](http://www.heatonresearch.com/2017/06/01/hidden-layers.html)
