@@ -99,9 +99,8 @@ This data set can be downloaded from the [Kaggle](https://www.kaggle.com/c/titan
 
 The highest score was 80.382, ranking in the top 10%.
 
-![score](./image/score.png){:width="300px"}
 
-
+<img src="./image/score.png" width="300"/>
 
 
 ## References
