@@ -34,7 +34,7 @@ class Model:
         self.error
         self.loss
 
-        tf.add_to_collection("X", self.X)
+        
         tf.add_to_collection("mode", self.mode)
         tf.add_to_collection("keep_prob", self.keep_prob)
 

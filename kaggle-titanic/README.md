@@ -2,7 +2,7 @@
 # Titanic: Machine Learning from Disaster
 
 
-Among the various machine learning / deep-running frameworks, Tensorflow is used to solve the [Binary classification](https://en.wikipedia.org/wiki/Binary_classification) problem of whether the passengers on the Titanic survived or did not survive.
+Among the various machine learning / deep-running frameworks, Tensorflow is used to solve the [Binary classification](https://en.wikipedia.org/wiki/Binary_classification) problem of whether the passengers on the Titanic survived or not.
 
 
 
